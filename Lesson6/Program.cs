@@ -3,7 +3,10 @@
 namespace Lesson6
 {
 
-
+    class Student
+    { 
+        
+    }
 
     class Program
     {
